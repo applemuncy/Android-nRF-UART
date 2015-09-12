@@ -1,3 +1,4 @@
+Modified with UUID's to use with HM-10 module
 # Android-nRF-UART
 
 nRF UART app can be used to connect to Bluetooth® Smart devices running a custom Nordic Semiconductor UART service. When connected, the app can send and receive ASCII and UTF-8 text strings. 
