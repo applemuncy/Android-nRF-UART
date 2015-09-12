@@ -19,9 +19,12 @@
     android:versionCode="43"
     android:versionName="2.0" >
 
-    <uses-sdk
-        android:minSdkVersion="18"
-        android:targetSdkVersion="18" />
+    <!--
+    This is handled by build.gradle file
+           <uses-sdk
+           android:minSdkVersion="18"
+           android:targetSdkVersion="18" />
+    -->
     <uses-permission android:name="android.permission.BLUETOOTH" />
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
 
